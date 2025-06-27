@@ -1,0 +1,11 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+#reader {
+  margin: auto;
+  border: 2px solid #ccc;
+  padding: 10px;
+}
